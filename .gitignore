@@ -1,0 +1,11 @@
+# Ignore user-generated history files
+WatchHistory_*.txt
+
+# Ignore compiled Java files
+*.class
+bin/
+
+# Ignore Eclipse-specific metadata
+.project
+.classpath
+.settings/
