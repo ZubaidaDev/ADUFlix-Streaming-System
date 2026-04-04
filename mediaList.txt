@@ -1,0 +1,27 @@
+MOVIE,Interstellar,Sci-Fi,1,128,Alice G.
+MOVIE,Carry on,Action,4,136,Taron Egerton
+MOVIE,Maze Runner,Sci-Fi,4,113,Dylan O'Brien
+MOVIE,Fats and Furious,Action,2,106,Vin Diesel
+MOVIE,Grown-ups,Comedy,4,102,Adam Sandler
+MOVIE,Home Alone,Comedy,4,120,Macaulay Culkin
+MOVIE,IT,Horror,3,102,Bill Skarsgard
+MOVIE,Black Swan,Horror,4,108,Natalie Portman 
+
+
+SERIES,Modern Family,Comedy,4,110,11
+SERIES,The rookie,Crime,5,60,7
+SERIES,High Potential,Crime,3,89,2
+SERIES,New Girl,Comedy,2,76,7
+SERIES,Outer Banks,Action,5,100,4
+SERIES,The Night Agent,Action,4,96,2
+SERIES,Stranger Things,Sci-Fi,5,109,4
+SERIES,Shadow Hunters,Sci-Fi,3,198,3
+
+DOCUMENTARY,Our Planet,Nature,2,90,Wildlife
+DOCUMENTARY,Venus and Serena,Sports,4,90,Williams Sisters
+DOCUMENTARY,ELMWOOD,DETECTIVE MYSTERY,5,60,Tristan Trainers
+DOCUMENTARY,REAILTY,HUMAN RIGHTS,4,94,Matt Attenborough
+DOCUMENTARY,ARTIST VIEW,HUMAN RIGHTS,5,50,Flip Herzog 
+DOCUMENTARY,SAVE EARTH,NATURE,4,83,Glenn Binney
+DOCUMENTARY,City OF Joy,Human Rights,5,145,Activism
+DOCUMENTARY,Formula 1:Drive to survive,Sports,5,70,Car racing
