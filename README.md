@@ -16,7 +16,7 @@ A console-based media streaming system developed for **CSC202: Programming 2** a
 
 ## 💻 How to Run (Terminal)
 
-### Option A — compile and run (single folder)
+### Option A — compile and run (single folder, default package)
 From the project root (where the `.java` files are):
 
 ```bash
@@ -30,6 +30,7 @@ mkdir -p out
 javac -d out *.java
 java -cp out CoursePrerequisitesApp
 ```
+
 ## Usage
 This is an **interactive console menu** program. Run it, then follow the on-screen prompts and enter the requested numbers/text in the terminal.
 
