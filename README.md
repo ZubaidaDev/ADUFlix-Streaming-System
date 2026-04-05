@@ -28,7 +28,7 @@ java Main
 ```bash
 mkdir -p out
 javac -d out *.java
-java -cp out CoursePrerequisitesApp
+java -cp out Main
 ```
 
 ## Usage
